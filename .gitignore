@@ -1,6 +1,19 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# .NET build results
 bin/
 obj/
-*.user
-*.suo
-*.vs/
+
+# IDE-specific files
 .vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
